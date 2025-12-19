@@ -30,6 +30,8 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
+<object data="{{ site.baseurl }}/files/main.pdf" type="application/pdf" width="100%"></object>
+
 Skills
 ======
 **Programming Languages**: C++,SystemVerilog, Verilog, Python, Bash, Java, RISC-V Assembly, MIPS Assembly
@@ -40,24 +42,27 @@ Skills
 
 **Embedded Systems**: ESP32, Arduino, Raspberry Pi, FreeRTOs, WiFi, BLE, SPI, UART, I2C, RISC-V, MIPS
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<!-- Publications -->
+<!-- ====== -->
+<!--   <ul>{% for post in site.publications reversed %} -->
+<!--     {% include archive-single-cv.html %} -->
+<!--   {% endfor %}</ul> -->
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+<!-- Talks -->
+<!-- ====== -->
+<!--   <ul>{% for post in site.talks reversed %} -->
+<!--     {% include archive-single-talk-cv.html  %} -->
+<!--   {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Teaching Assistant ECE2020 - Digital System Design**
+  <!-- <ul>{% for post in site.teaching reversed %} -->
+  <!--   {% include archive-single-cv.html %} -->
+  <!-- {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* SiliconJackets Business Team Lead (May 2025 - August 2025)
+* SiliconJackets Business Team (September 2024 - May 2025)
+
