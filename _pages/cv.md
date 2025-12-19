@@ -9,38 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Computer Engineering, Georgia Institute of Technology, December. 2026 
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 <object data="{{ site.baseurl }}/files/main.pdf" type="application/pdf" width="100%"></object>
-
-Skills
-======
-**Programming Languages**: C++,SystemVerilog, Verilog, Python, Bash, Java, RISC-V Assembly, MIPS Assembly
-
-**Software**: Git, CMake, Cadence Virtuoso, Synopsys VCS, QuestaSim, Vivado, Docker, CUDA, OpenMP, OpenMPI, OpenGL
-
-**Hardware**: RISC-V Architecture, Layout, Digital Design, Design Verification, Computer Architecture, GPU Architecture, FPGA
-
-**Embedded Systems**: ESP32, Arduino, Raspberry Pi, FreeRTOs, WiFi, BLE, SPI, UART, I2C, RISC-V, MIPS
 
 <!-- Publications -->
 <!-- ====== -->
