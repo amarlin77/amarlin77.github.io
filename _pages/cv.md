@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Engineering, Georgia Institute of Technology, December. 2026 
 
 Work experience
 ======
@@ -34,12 +32,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*Programming Languages*: C++,SystemVerilog, Verilog, Python, Bash, Java, RISC-V Assembly, MIPS Assembly
+
+*Software*: Git, CMake, Cadence Virtuoso, Synopsys VCS, QuestaSim, Vivado, Docker, CUDA, OpenMP, OpenMPI, OpenGL
+
+*Hardware*: RISC-V Architecture, Layout, Digital Design, Design Verification, Computer Architecture, GPU Architecture, FPGA
+
+*Embedded Systems*: ESP32, Arduino, Raspberry Pi, FreeRTOs, WiFi, BLE, SPI, UART, I2C, RISC-V, MIPS
 
 Publications
 ======
