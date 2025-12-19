@@ -32,13 +32,13 @@ Work experience
   
 Skills
 ======
-*Programming Languages*: C++,SystemVerilog, Verilog, Python, Bash, Java, RISC-V Assembly, MIPS Assembly
+**Programming Languages**: C++,SystemVerilog, Verilog, Python, Bash, Java, RISC-V Assembly, MIPS Assembly
 
-*Software*: Git, CMake, Cadence Virtuoso, Synopsys VCS, QuestaSim, Vivado, Docker, CUDA, OpenMP, OpenMPI, OpenGL
+**Software**: Git, CMake, Cadence Virtuoso, Synopsys VCS, QuestaSim, Vivado, Docker, CUDA, OpenMP, OpenMPI, OpenGL
 
-*Hardware*: RISC-V Architecture, Layout, Digital Design, Design Verification, Computer Architecture, GPU Architecture, FPGA
+**Hardware**: RISC-V Architecture, Layout, Digital Design, Design Verification, Computer Architecture, GPU Architecture, FPGA
 
-*Embedded Systems*: ESP32, Arduino, Raspberry Pi, FreeRTOs, WiFi, BLE, SPI, UART, I2C, RISC-V, MIPS
+**Embedded Systems**: ESP32, Arduino, Raspberry Pi, FreeRTOs, WiFi, BLE, SPI, UART, I2C, RISC-V, MIPS
 
 Publications
 ======
