@@ -6,11 +6,13 @@ collection: portfolio
 
 For this project we are using the Xilinx Vivado ISE and Jupyter Notebooks in order to enable hardware accleration for the Finite Impulse Response signal processing function. The goal of this project was to introduce myself to FPGAs and how to use them. I also wanted to dive deeper into how hardware acceleration occurs and learn how to program an FPGA to interface with software. By utilizing Xilinx's Vivado, I learned how to design and interact with professionally made IPs and incorporate them into a block diagram used to program an FPGA. Specific to the PYNQ-Z2, I think, I learned how to convert this file into an overlay that is used in Python to actually accelerate the function
 
-![Block diagram](/images/Portfolio/firFilter/blockdiagram.png) 
+![Block diagram](/images/Portfolio/firFilter/blockdiagram.png)
 
 This is the block diagram for the FIR accelerator. Luckily, the Vivado platform had a premade FIR function IP so I didn't need to design the Verilog to represent this block. The platform is also pretty nice as it makes a lot of the connections between modules automatically and will even generate the needed modules if there are any that seem to be missing.
 
 ![Original Waveform](/images/Portfolio/firFilter/ogwaveform.png)
+
+This is a diagram of the original FIR function working on a randomized sample input. As we can see, the purpose of the FIR filter is to do a bunch of convolutions between the input and previous input which is why our FIR output looks similar to the input signal. Essentially its cleaning it up. This took 0.0764... seconds to execute. How much faster can we get?
 
 
 ```
