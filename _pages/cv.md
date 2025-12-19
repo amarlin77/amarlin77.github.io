@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Last Updated 12/19/2025
+
   
 <object data="{{ site.baseurl }}/files/main.pdf" type="application/pdf" width="100%"></object>
 
@@ -27,6 +29,7 @@ redirect_from:
 Teaching
 ======
 **Teaching Assistant ECE2020 - Digital System Design**
+
   <!-- <ul>{% for post in site.teaching reversed %} -->
   <!--   {% include archive-single-cv.html %} -->
   <!-- {% endfor %}</ul> -->
