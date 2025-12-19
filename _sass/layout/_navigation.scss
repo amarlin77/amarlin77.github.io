@@ -227,14 +227,18 @@
 
     #theme-toggle {
       position: absolute;  /* Removes it from the normal flow */
-      right: 20px;         /* Pins it 20px from the right edge */
+      right: 1rem;         /* Pins it 20px from the right edge */
       top: 50%;            /* Centers it vertically */
       transform: translateY(-50%); /* Adjusts for perfect vertical center */
+      z-index: 20;
+      list-style: none;
       a {
-        width: 25px;
-        display: flex;
-        justify-content: center;
+        display: block;
         cursor: pointer;
+        // width: 25px;
+        // display: flex;
+        // justify-content: center;
+        // cursor: pointer;
       }
     }
 
