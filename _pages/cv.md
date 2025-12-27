@@ -12,7 +12,7 @@ redirect_from:
 Last Updated 12/27/2025
 
   
-<object data="{{ site.baseurl }}/files/main.pdf" type="application/pdf" width="100%"></object>
+<object data="{{ site.baseurl }}/files/CV.pdf" type="application/pdf" width="100%"></object>
 
 <!-- Publications -->
 <!-- ====== -->
